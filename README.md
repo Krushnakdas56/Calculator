@@ -1,2 +1,6 @@
 # Calculator
 This is a web Calculator.
+- 👋 Hi, I’m @Krushnakdas56
+- 👀 I’m interested in HTML,CSS and JS...
+- 🌱 I’m currently learning web dev...
+
