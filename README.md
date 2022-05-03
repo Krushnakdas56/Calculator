@@ -1,4 +1,2 @@
 # Calculator
-This is a web cal.
-
-code is open.
+This is a web Calculator.
